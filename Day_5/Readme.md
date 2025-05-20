@@ -1,0 +1,1 @@
+## This project is a responsive landing pages designed for a carpooling platform. It features a clean layout with a top container, bottom container, and fixed action icons for chat, notifications, and contact.
